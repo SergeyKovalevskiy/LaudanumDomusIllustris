@@ -15,4 +15,7 @@ h1{
 #content{
   background-color: PeachPuff;
   border: 3px solid coral;
+  margin-top: 150px;
+  margin-left: 20%;
+  margin-right: 20%;
 }
