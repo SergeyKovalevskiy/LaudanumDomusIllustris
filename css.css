@@ -5,7 +5,7 @@
 }
 
 body{
-  filter: blur(3px);
+  backdrop-filter: blur(3px);
   background: PapayaWhip url(img/ukraine.jpg);
   color: black;
 }
