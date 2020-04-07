@@ -5,7 +5,7 @@
 }
 
 body{
-  background: PapayaWhip url(img/citrus.jpg);
+  background: PapayaWhip url(img/citrus.jpg) no-repeat;
   color: black;
 }
 
